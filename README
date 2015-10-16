@@ -5,6 +5,7 @@ REQUIREMENTS
 *****************************************
 Pre-requisites to compile pcap2sipp
 libpcap
+libnet-dev
 tcpdump
 
 *****************************************
